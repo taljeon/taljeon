@@ -1,8 +1,7 @@
-# Tal
+# taljeon
 
-I build tools that make AI coding agents finish work and prove it with evidence.
-
-AIコーディングエージェントの検証ツールを作っています
+On my way to becoming a full-stack architect who leads teams.
+Right now I build tools that make AI coding agents finish work and prove it.
 
 ## Stack
 
