@@ -5,7 +5,12 @@ Right now I build tools that make AI coding agents finish work and prove it.
 
 ## Stack
 
-Python, TypeScript · Go through open-source contributions
+- **Languages:** Python · TypeScript · Go (OSS contributions) · Shell
+- **Frontend:** React · Vite
+- **Backend:** FastAPI · Node.js (Cloud Functions)
+- **Cloud:** Firebase (Firestore, Functions, Storage) · Google Cloud Vision
+- **Testing:** Vitest · unittest · Playwright
+- **AI / LLM:** LLM evaluation (Soup) · Ollama · MLX · Claude Code / Codex agent tooling
 
 ## Projects
 
