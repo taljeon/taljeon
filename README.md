@@ -1,7 +1,7 @@
 # taljeon
 
-On my way to becoming a full-stack architect who leads teams.
-Right now I build tools that make AI coding agents finish work and prove it.
+- On my way to becoming a full-stack architect who leads teams.
+- Right now I build tools that make AI coding agents finish work and prove it.
 
 ## Stack
 
